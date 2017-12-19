@@ -3,10 +3,38 @@ body {
   text-align: center;
 }
 
+.link {
+  color: aquamarine;
+  front-size: 16px;
+}
+
 h1 {
   font-family: Verdana;
   font-weight: Normal;
   font-size: 50px;
   color: White;
   text-align: center;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h3 {
+  color: grey;
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: center;
+  font-weight: normal;
+}
+
+.copyright {
+  text-align: right;
+  color: grey;
+  font-family: Verdana;
+  font-size: 21px;
+  font-weight: normal;
 }
